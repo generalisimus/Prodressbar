@@ -1,0 +1,23 @@
+body {
+	background-color: red;
+}
+.find {
+	margin-left: 450px;
+	margin-top: 250px;
+	width: 400px;
+	background-color: red;
+	
+}
+
+.find p {
+	font-size: 30px;
+	margin-left: 90px;
+}
+.finder {
+	color: yellow;
+	margin-top: 20px;
+	padding: 10px;
+	margin-left: 115px;
+	width: 400px;
+}
+
